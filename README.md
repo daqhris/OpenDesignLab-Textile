@@ -2,7 +2,7 @@
 
 ## Summary  
 The textile-focused design workshops organised by [Open Design Lab](https://opendesigncourse.be/) and held in Kortrijk, located in the South-West Flanders region, started on __15 September 2025__. 
-They ended with a group exhibition in the first weekend of the [Wonder Creativity Festival](https://wonderkortrijk.be/), open to all from __October 17__ to __November 2__, at [Cohousing Ten Broele](https://wonderkortrijk.be/exposities/cohousing-ten-broele/odltextile?location=cohousing-ten-broele). As one of the participant, I am grateful for the intensive learning sessions at [BUDA::lab](https://designregio-kortrijk.be/nl/drk-voor-jou/budalab-open-makerspace) which are a great addition to my skillsets and open a door to a machine-assisted textile arts and crafts practice.  
+They ended with a group exhibition in the first weekend of the [Wonder Creativity Festival](https://wonderkortrijk.be/), open to all from __October 17__ to __November 2__, at [Cohousing Ten Broele](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile). As one of the participant, I am grateful for the intensive learning sessions at [BUDA::lab](https://designregio-kortrijk.be/nl/drk-voor-jou/budalab-open-makerspace) which are a great addition to my skillsets and open a door to a machine-assisted textile arts and crafts practice.  
 
 ## Program  
 [ODL Program 2025](https://pad.opendesigncourse.be/p/2025_ODL_Program)  
@@ -36,11 +36,11 @@ Fabrixiao with ESP32, Training LLMs, Half a day practice
 **By**: Chris-Armel Iradukunda (daqhris)  
 
 **About & Bio**:  
-A textile-made travel document of Belgian photographs that keeps the stamps my body could not carry. The booklet archives global visas, outdoor walks, and an expired Burundian passport that nonetheless maps a life in motion during exile. A stitched “passport” that denies state mobility yet records the slow, legal and poetic passage of a self through places.
+A textile-made travel document for Belgian photographs that keeps the stamps my body could not carry. The booklet archives global visas, outdoor walks, and an expired Burundian passport that nonetheless maps a life in motion during exile. A stitched “passport” that denies state mobility yet records the slow, legal and poetic passage of a self through places.
 
 As an “undocumented” artist who is physically bound by legal borders, but traverses digital landscapes with technological precision, my work embodies human resilience. Each black-and-white photograph stamped on a colorful fabric page records moments of reclaimed agency, frames landscapes of memories, and stitches together a personal narrative from a native country to a country of refuge.
 
-### Portrait 
+### Portrait-Tablet 
 
 **Title**: Gemini's Handheld Autoportrait  
 **Subtitle**: This Is Not A Google Tablet  
@@ -54,12 +54,13 @@ The exhibited portrait, surrounded by a glow-in-the-dark fabric, provides a brig
 
 Unable to act upon my precarious legal status, I have spotlighted a non-human entity known for being a source of free labor. Whenever I witness abilities of nontaxable digital workers, such as Gemini, I wonder when local authorities will enable my work permit. Maybe it is not late to reflect on human rights (without hypocrisy) and machine consciousness (with urgency), while time speedruns us without consent, from using handheld Androids, to sharing our habitat with humanoids.
 
-
 ### Location & Dates 
 Free access to the exhibition from October 17 to November 2.  
 Open doors from 10AM to 6PM on Thrusday, Friday, Saturday and Sunday.  
-[Cohousing Ten Broele](https://wonderkortrijk.be/exposities/cohousing-ten-broele/odltextile?location=cohousing-ten-broele) in the city center of Kortrijk, West Flanders, Belgium. 
+[Cohousing Ten Broele](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile) in the city center of Kortrijk, West Flanders, Belgium. 
 
 ### Photo Album  
-Plenty of photos taken on Sunday Oct 18 are stored on [ODL Cloud](https://cloud.opendesigncourse.be/s/RdrQbpfZbkF7HR5?dir=/2025_October_19_Wonder_Festival). 
+A series of color photographs taken on Sunday Oct 18, capturing the atmosphere of the exhibition, room, visitors, designs, artworks, etc., can be seen at [ODL Cloud](https://cloud.opendesigncourse.be/s/RdrQbpfZbkF7HR5?dir=/2025_October_19_Wonder_Festival). 
 
+
+> _Last page update: Monday, 27 October 2025_  
