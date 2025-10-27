@@ -7,7 +7,6 @@ They ended with a group exhibition during the [Wonder Creativity Festival](https
 > As one of the 10 participants, I am grateful for the five-week learning sessions   
 > at [BUDA::lab](https://designregio-kortrijk.be/nl/drk-voor-jou/budalab-open-makerspace) which are a great addition to my skillsets  
 > and open a door to a machine-assisted textile arts and crafts practice.  
-> **Chris-Armel Iradukunda (daqhris)**  
 
 ## Program  
 [ODL Program 2025](https://pad.opendesigncourse.be/p/2025_ODL_Program)  
