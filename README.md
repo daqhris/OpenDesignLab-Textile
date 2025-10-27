@@ -1,4 +1,4 @@
-# Textile Arts by Open Design Lab at BUDA::lab 
+# Notes on Textile workshops by Open Design Lab at BUDA::lab Kortrijk
 
 ## Summary  
 The textile-focused design workshops organised by [Open Design Lab](https://opendesigncourse.be/) and held in Kortrijk, located in the South-West Flanders region, started on __15 September 2025__. 
@@ -35,7 +35,7 @@ Fabrixiao with ESP32, Training LLMs, Half a day practice
 ## Exhibition   
 ### Wonder Creativity Festival (Oct 16 - Nov 2)  [wonderkortrijk.be](https://wonderkortrijk.be/en/home)
 #### Kortrijk Art Weekend (Oct 24-25-26)  [kortrijkart.be](https://kortrijkart.be/en/) 
-ODL Textile: [wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile)
+**ODL Textile** → [wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile)
 
 _ _ _ _  
 
