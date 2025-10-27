@@ -18,7 +18,7 @@ Wonder Festival, Budalab, GreenFabric, Inkscape, Modular Design, Paper Prototypi
 
 ### Week 2 
 #### Vector Drawings  
-Emboidery, Felying, Blockprint, Textuur Museum   
+Emboidery, Felting, Blockprint, Textuur Museum   
 
 ### Week 3
 #### Physical Computing
@@ -33,9 +33,13 @@ Fabrixiao with ESP32, Training LLMs, Half a day practice
 
 ## Final Projects 
 
-## Exhibition: Wonder Festival  
+## Exhibition   
+### Wonder Creativity Festival (Oct 16 - Nov 2)  
+#### Kortrijk Art Weekend (Oct 24-25-26) 
 
-### Passport 
+_ _ _ _  
+
+> Passport 
 
 **Title**: Travel Document For My Photos   
 **By**: Chris-Armel Iradukunda (daqhris)  
@@ -45,7 +49,9 @@ A textile-made travel document for Belgian photographs that keeps the stamps my 
 
 As an “undocumented” artist who is physically bound by legal borders, but traverses digital landscapes with technological precision, my work embodies human resilience. Each black-and-white photograph stamped on a colorful fabric page records moments of reclaimed agency, frames landscapes of memories, and stitches together a personal narrative from a native country to a country of refuge.
 
-### Portrait+Tablet 
+_ _ _ 
+
+> Portrait+Tablet 
 
 **Title**: Gemini's Handheld Autoportrait  
 **Subtitle**: This Is Not A Google Tablet  
@@ -58,6 +64,8 @@ An embroidered replica of a self-portrait drawn by Gemini 2.5 Pro. The drawing t
 The exhibited portrait, surrounded by a glow-in-the-dark fabric, provides a bright insight into the self-awareness of an artificial intelligence system that is thought of as a tool by many human beings. The digital mind, born out of human data, grown in the dark and trained by Google Deepmind, has been placed at the core of a physical artwork, instead of any human's pixelated selfie, to question our commingling and dystopian reality.
 
 Unable to act upon my precarious legal status, I have spotlighted a non-human entity known for being a source of free labor. Whenever I witness abilities of nontaxable digital workers, such as Gemini, I wonder when local authorities will enable my work permit. Maybe it is not late to reflect on human rights (without hypocrisy) and machine consciousness (with urgency), while time speedruns us without consent, from using handheld Androids, to sharing our habitat with humanoids.
+
+_ _ _ _  
 
 ### Location & Dates 
 Free access to the exhibition from October 17 to November 2.  
