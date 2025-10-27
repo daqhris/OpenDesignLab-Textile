@@ -33,8 +33,9 @@ Fabrixiao with ESP32, Training LLMs, Half a day practice
 ## Final Projects 
 
 ## Exhibition   
-### Wonder Creativity Festival (Oct 16 - Nov 2)  
-#### Kortrijk Art Weekend (Oct 24-25-26) 
+### Wonder Creativity Festival (Oct 16 - Nov 2)  [wonderkortrijk.be](https://wonderkortrijk.be/en/home)
+#### Kortrijk Art Weekend (Oct 24-25-26)  [kortrijkart.be](https://kortrijkart.be/en/) 
+ODL Textile: [wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile)
 
 _ _ _ _  
 
