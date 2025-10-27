@@ -40,7 +40,7 @@ A textile-made travel document for Belgian photographs that keeps the stamps my 
 
 As an “undocumented” artist who is physically bound by legal borders, but traverses digital landscapes with technological precision, my work embodies human resilience. Each black-and-white photograph stamped on a colorful fabric page records moments of reclaimed agency, frames landscapes of memories, and stitches together a personal narrative from a native country to a country of refuge.
 
-### Portrait-Tablet 
+### Portrait+Tablet 
 
 **Title**: Gemini's Handheld Autoportrait  
 **Subtitle**: This Is Not A Google Tablet  
