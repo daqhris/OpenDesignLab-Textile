@@ -1,8 +1,13 @@
-# Textile Arts at BUDA::lab Open Makerspace  
+# Textile Arts by Open Design Lab at BUDA::lab 
 
 ## Summary  
 The textile-focused design workshops organised by [Open Design Lab](https://opendesigncourse.be/) and held in Kortrijk, located in the South-West Flanders region, started on __15 September 2025__. 
-They ended with a group exhibition in the first weekend of the [Wonder Creativity Festival](https://wonderkortrijk.be/), open to all from __October 17__ to __November 2__, at [Cohousing Ten Broele](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile). As one of the participant, I am grateful for the intensive learning sessions at [BUDA::lab](https://designregio-kortrijk.be/nl/drk-voor-jou/budalab-open-makerspace) which are a great addition to my skillsets and open a door to a machine-assisted textile arts and crafts practice.  
+They ended with a group exhibition during the [Wonder Creativity Festival](https://wonderkortrijk.be/), open to all from __October 17__ to __November 2__, at [Cohousing Ten Broele](https://wonderkortrijk.be/en/exhibitions/cohousing-ten-broele/odltextile).   
+
+> As one of the participant, I am grateful for the five-week learning sessions   
+> at [BUDA::lab](https://designregio-kortrijk.be/nl/drk-voor-jou/budalab-open-makerspace) which are a great addition to my skillsets  
+> and open a door to a machine-assisted textile arts and crafts practice.  
+> **Chris-Armel Iradukunda (daqhris)**  
 
 ## Program  
 [ODL Program 2025](https://pad.opendesigncourse.be/p/2025_ODL_Program)  
