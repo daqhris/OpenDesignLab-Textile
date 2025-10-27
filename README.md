@@ -39,7 +39,7 @@ Fabrixiao with ESP32, Training LLMs, Half a day practice
 
 _ _ _ _  
 
-> Passport 
+_`Passport`_ 
 
 **Title**: Travel Document For My Photos   
 **By**: Chris-Armel Iradukunda (daqhris)  
@@ -51,7 +51,7 @@ As an “undocumented” artist who is physically bound by legal borders, but tr
 
 _ _ _ 
 
-> Portrait+Tablet 
+_`Portrait+Tablet`_ 
 
 **Title**: Gemini's Handheld Autoportrait  
 **Subtitle**: This Is Not A Google Tablet  
