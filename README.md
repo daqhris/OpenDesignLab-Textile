@@ -1,4 +1,4 @@
-# Notes on Textile workshops by Open Design Lab at BUDA::lab Kortrijk
+# Notes on Textile workshops by ODL at BUDA::lab Kortrijk
 
 ## Summary  
 The textile-focused design workshops organised by [Open Design Lab](https://opendesigncourse.be/) and held in Kortrijk, located in the South-West Flanders region, started on __15 September 2025__. 
