@@ -76,4 +76,4 @@ Open doors from 10AM to 6PM on Thrusday, Friday, Saturday and Sunday.
 A series of color photographs taken on Sunday Oct 18, capturing the atmosphere of the exhibition, room, visitors, designs, artworks, etc., can be seen at [ODL Cloud](https://cloud.opendesigncourse.be/s/RdrQbpfZbkF7HR5?dir=/2025_October_19_Wonder_Festival). 
 
 
-> _Last page update: Monday, 27 October 2025_  
+> _Last page update: Monday, 20 November 2025_  
